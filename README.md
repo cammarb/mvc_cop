@@ -22,7 +22,7 @@
 ### 1. Clone the project and open the folder
 
 ```
-git clone https://github.com/cammarb/my-portfolio.git && cd my-portfolio
+git clone https://github.com/cammarb/mvc_cop && cd mvc_cop
 ```
 
 ### 2. Create virtual enviroment
